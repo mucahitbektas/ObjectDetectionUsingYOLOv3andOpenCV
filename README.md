@@ -65,7 +65,7 @@ yolo.py --help
 # Inference in Real-time
 
 [![yolov3-video](res\yolo.jpg)](https://youtu.be/R9NNlvLbGTc)
-<p align="center"><small> Click on the image to play the video on YouTube </small></p>
+<p align="center"><small> Click on the image to play the video on YouTube (https://pjreddie.com/darknet/yolo//)</small></p>
 
 # References
 
