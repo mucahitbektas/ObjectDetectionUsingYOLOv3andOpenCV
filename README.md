@@ -62,10 +62,10 @@ yolo.py --help
 
 <br>
 
-<!-- # Inference in Real-time
+# Inference in Real-time
 
-[![yolov3-video](https://user-images.githubusercontent.com/26242097/48862668-0ca56c80-eded-11e8-9482-31d795105983.png)](https://youtu.be/QaxEtpRwmtI)
-<p align="center"><small> Click on the image to play the video on YouTube </small></p> -->
+[![yolov3-video](res\yolo.jpg)](https://youtu.be/R9NNlvLbGTc)
+<p align="center"><small> Click on the image to play the video on YouTube </small></p>
 
 # References
 
